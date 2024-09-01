@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdurrahman Yusuf
-- 🌱 I’m currently learning at Univesitas Teknologi Yogyakarta
+- 🌱 I graduated from Univesitas Teknologi Yogyakarta
 
 <!---
 justucok/justucok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
