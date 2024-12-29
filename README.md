@@ -5,7 +5,7 @@
 
 - 🌱 I graduated from Univesitas Teknologi Yogyakarta
 
-- 📫 How to reach me **abdurrahmanyusufwijasena@gmail.com**
+- 📫 How to reach me **yusufwijasena@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
